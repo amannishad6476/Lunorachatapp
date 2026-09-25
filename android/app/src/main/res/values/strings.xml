@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lunora</string>
+    <string name="title_activity_main">Lunora</string>
+    <string name="package_name">com.lunora.app</string>
+    <string name="custom_url_scheme">com.lunora.app</string>
+</resources>

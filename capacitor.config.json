@@ -1,0 +1,11 @@
+{
+  "appId": "com.lunora.app",
+  "appName": "Lunora",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#0B0B0E"
+  }
+}
