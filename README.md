@@ -1,4 +1,4 @@
-# Lunora - Social & Compatibility Android App
+# Lunora - Social & Compatibility Android App and website 
 
 Complete Android & Web app replicated faithfully from the 39-page PDF design screenshots for **Lunora (Social & Compatibility)**.
 
