@@ -25,7 +25,7 @@ Complete Android & Web app replicated faithfully from the 39-page PDF design scr
 - **Step 6/7: What are you into?** *(Pages 10 – 19)*
   - Horizontal jump category tabs with counters (`Community (1)`, `Creative (1)`, `Food (1)`, etc.)
   - Over 13 categories with chips (Langar Seva, Chai, Campus Life, Studying, Trips, Cars, Basketball, Self Care, etc.)
-  - Progress bar tracking `"X of 10 chosen"`, dynamic button `PICK X MORE ✨` ➔ `CONTINUE ✨`
+  - Progress bar tracking `"X of 10 chosen"`, dynamic button `PICK X MORE ` ➔ `CONTINUE ✨`
 - **Step 7/7: Enable Notifications** *(Page 20)*
   - Notification benefits overview (Bumps, Connection requests, Daily reading)
   - `SEE MY FIRST READING ✨` action button
@@ -36,7 +36,7 @@ Complete Android & Web app replicated faithfully from the 39-page PDF design scr
 
 #### Tab 1: You *(Page 21)*
 - Dynamic header: `THURSDAY · SEP 24`, `Hi, Aman` + Gold Avatar initial button
-- **DAILY INSIGHT card**: Streak tracker (`F Sa Su M Tu W Th`), flame counter `0 🔥`, title *"Today's vibration is waiting"*, chevron button opening the deep reading view
+- **DAILY INSIGHT card**: Streak tracker (`F Sa Su M Tu W Th`), flame counter `0 `, title *"Today's vibration is waiting"*, chevron button opening the deep reading view
 - **TODAY'S AFFIRMATION card**: Streak tracker, *"I receive ease"*, quote, interactive `Claim` ➔ `Claimed ✓`
 - **ASK LUNORA section**: Question prompt cards + refresh button + "Ask your own question" mic pill
 
