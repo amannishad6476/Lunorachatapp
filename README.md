@@ -14,10 +14,10 @@ Complete Android & Web app replicated faithfully from the 39-page PDF design scr
 - **Step 2/7: Birth Details - Date & Time** *(Page 3)*
   - Date of birth (`15 February 2007`), Age 18+ policy notice
   - Time of birth (`11:25 pm`)
-- **Step 3/7: Birth Details - City & Privacy** *(Pages 1 & 5)*
+- **Step 3/7: Birth Details - City & Privacy  (Pages 1 & 5)*
   - City of birth with search & autocomplete (`Gorakhpur`, `Luchnow `, `Delhi`, etc.)
   - Private birth details security guarantee card
-- **Step 4/7: Relationship Status** *(Pages 4, 7, 28)*
+- **Step 4/7: Relationship Status (Pages 4, 7, 28)*
   - 10 Status choices in a 3-column grid (`Single`, `Talking / Hanging out`, `Dating`, `Exclusive relationship`, `Situationship`, `Living together`, `Open / Poly`, `Engaged`, `Married`, `Separated / Divorced`)
 - **Step 5/7: Context / Life Bio** *(Pages 6, 8, 9)*
   - "In your own words" (0/400 counter)
