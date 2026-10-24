@@ -7,11 +7,11 @@ Complete Android & Web app replicated faithfully from the 39-page PDF design scr
 ## 📱 Features & Screen Breakdown (Mapped to PDF)
 
 ### 1. Onboarding Flow (Steps 1 – 7)
-- **Step 1/7: About You** *(Page 2)*
+- **Step 1/7: About You (Page 2)*
   - Full Name input with user icon
   - Username with validation (`@amannishad`), character count `10/30`, green checkmark
   - Pronoun chips (`She/Her`, `He/Him`, `They/Them`, `+ Custom`, `Skip` with gold outline)
-- **Step 2/7: Birth Details - Date & Time** *(Page 3)*
+- **Step 2/7: Birth Details - Date & Time(Page 3)*
   - Date of birth (`15 February 2007`), Age 18+ policy notice
   - Time of birth (`11:25 pm`)
 - **Step 3/7: Birth Details - City & Privacy  (Pages 1 & 5)*
