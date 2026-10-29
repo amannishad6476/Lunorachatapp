@@ -51,7 +51,7 @@ Complete Android & Web app replicated faithfully from the 39-page PDF design scr
 - Welcoming prompt: *"How can I help you today, there?"*
 - `TRY ASKING` interactive celestial questions
 - Live Astrological AI chat tuned to Aman's chart (Moon in Shatabhisha, Aquarius)
-- Mic voice input with simulated toast (`Speech is unavailable.` from Page 39)
+- Mic voice input with simulated toast (`Speech is unavailable.` )
 
 ---
 
