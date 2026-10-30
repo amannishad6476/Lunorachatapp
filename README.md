@@ -40,7 +40,7 @@ Complete Android & Web app replicated faithfully from the 39-page PDF design scr
 - **TODAY'S AFFIRMATION card**: Streak tracker, *"I receive ease"*, quote, interactive `Claim` ➔ `Claimed ✓`
 - **ASK LUNORA section**: Question prompt cards + refresh button + "Ask your own question" mic pill
 
-#### Tab 2: People / Compatibility *(Pages 22, 27)*
+#### Tab 2: People / Compatibility 
 - Action cards: `Mutual: Add connection` and `Private: Add custom profile`
 - Overlapping cosmic graphic: `? - Y - ?` (You and hidden connection)
 - `YOU'RE FLYING SOLO` banner
