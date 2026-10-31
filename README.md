@@ -34,7 +34,7 @@ Complete Android & Web app replicated faithfully from the 39-page PDF design scr
 
 ### 2. Main App (Three Tabs)
 
-#### Tab 1: You *(Page 21)*
+#### Tab 1: You 
 - Dynamic header: `THURSDAY · SEP 24`, `Hi, Aman` + Gold Avatar initial button
 - **DAILY INSIGHT card**: Streak tracker (`F Sa Su M Tu W Th`), flame counter `0 `, title *"Today's vibration is waiting"*, chevron button opening the deep reading view
 - **TODAY'S AFFIRMATION card**: Streak tracker, *"I receive ease"*, quote, interactive `Claim` ➔ `Claimed ✓`
