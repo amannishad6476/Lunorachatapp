@@ -19,7 +19,7 @@ Complete Android & Web app replicated faithfully from the 39-page PDF design scr
   - Private birth details security guarantee card
 - **Step 4/7: Relationship Status (Pages 4, 7, 28)*
   - 10 Status choices in a 3-column grid (`Single`, `Talking / Hanging out`, `Dating`, `Exclusive relationship`, `Situationship`, `Living together`, `Open / Poly`, `Engaged`, `Married`, `Separated / Divorced`)
-- **Step 5/7: Context / Life Bio** *(Pages 6, 8, 9)*
+- **Step 5/7: Context / Life Bio**
   - "In your own words" (0/400 counter)
   - Interactive examples (Series B product manager, IIT Delhi BTech student)
 - **Step 6/7: What are you into?** *(Pages 10 – 19)*
