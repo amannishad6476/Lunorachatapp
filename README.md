@@ -6,7 +6,7 @@ Complete Android & Web app replicated faithfully from the 39-page PDF design scr
 
 ## 📱 Features & Screen Breakdown (Mapped to PDF)
 
-### 1. Onboarding Flow (Steps 1 – 7)
+### 1. Onboarding Flow
 - **Step 1/7: About You (Page 2)*
   - Full Name input with user icon
   - Username with validation (`@amannishad`), character count `10/30`, green checkmark
