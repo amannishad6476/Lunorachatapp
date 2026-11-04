@@ -14,7 +14,7 @@ Complete Android & Web app replicated faithfully from the 39-page PDF design scr
 - **Step 2/7: Birth Details - Date & Time(Page 3)*
   - Date of birth (`15 February 2007`), Age 18+ policy notice
   - Time of birth (`11:25 pm`)
-- **Step 3/7: Birth Details - City & Privacy  (Pages 1 & 5)*
+- **Step 3/7: Birth Details - City & Privacy  
   - City of birth with search & autocomplete (`Gorakhpur`, `Luchnow `, `Delhi`, etc.)
   - Private birth details security guarantee card
 - **Step 4/7: Relationship Status (Pages 4, 7, 28)*
