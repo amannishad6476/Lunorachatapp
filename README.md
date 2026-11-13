@@ -104,7 +104,4 @@ cd android
 ```
 The APK will be generated at `android/app/build/outputs/apk/debug/app-debug.apk`.
 
----
-
-## 🧭 Direct PDF Screen Navigator
 Click the floating **"PDF Screen Jump"** button on the bottom right of the screen at any time to instantly jump to any of the 39 screens from the PDF!
