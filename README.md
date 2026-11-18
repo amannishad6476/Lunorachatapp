@@ -94,7 +94,7 @@ npm run build
 ### 3. Build & Open in Android Studio
 The native Android project is generated in `./android`:
 ```bash
-npm run cap:sync      # Sync web assets into Android project
+npm run cap:sync      
 npm run cap:android   # Opens project directly in Android Studio
 ```
 Or build APK directly with Gradle:
